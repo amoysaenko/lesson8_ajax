@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 4, 2017
 
 ### Student Name:  
-(First and Last Name)
+Ashley Moysaenko
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we utilized Javascript and a database to be able to load information on a webpage.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://amoysaenko.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JSON stands for JavaScript Object Notation.
+2. HTTP client refers to an application which makes a request, like in the movie database.
+3. If a status code is 200 that means the request was successful.
